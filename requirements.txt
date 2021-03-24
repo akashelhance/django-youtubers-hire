@@ -1,0 +1,61 @@
+asgiref==3.3.1
+astroid==2.4.2
+attrs @ file:///home/conda/feedstock_root/build_artifacts/attrs_1605083924122/work
+Automat==20.2.0
+autopep8==1.5.5
+backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
+bcrypt @ file:///D:/bld/bcrypt_1610521335050/work
+certifi==2020.12.5
+cffi @ file:///D:/bld/cffi_1613414140225/work
+colorama==0.4.3
+constantly==15.1.0
+cryptography @ file:///D:/bld/cryptography_1612993898605/work
+cssselect==1.1.0
+decorator @ file:///home/ktietz/src/ci/decorator_1611930055503/work
+Django==3.1.7
+django-classy-tags==2.0.0
+django-cms==3.8.0
+django-formtools==2.2
+django-sekizai==2.0.0
+django-treebeard==4.5.1
+djangocms-admin-style==2.0.2
+djangocms-attributes-field==2.0.0
+djangocms-style==3.0.0
+hyperlink @ file:///home/conda/feedstock_root/build_artifacts/hyperlink_1610092164190/work
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1609836280497/work
+incremental==17.5.0
+ipython @ file:///C:/ci/ipython_1614616640087/work
+ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
+isort==5.5.3
+jedi==0.17.0
+lazy-object-proxy==1.4.3
+lxml @ file:///D:/bld/lxml_1610146678687/work
+mccabe==0.6.1
+parsel @ file:///home/conda/feedstock_root/build_artifacts/parsel_1591122878042/work
+parso @ file:///tmp/build/80754af9/parso_1607623074025/work
+pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
+prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1602688806899/work
+pyasn1==0.4.8
+pyasn1-modules==0.2.7
+pycodestyle==2.6.0
+pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1593275161868/work
+PyDispatcher==2.0.5
+Pygments @ file:///tmp/build/80754af9/pygments_1615143339740/work
+PyHamcrest==2.0.2
+pylint==2.6.0
+pyOpenSSL @ file:///home/conda/feedstock_root/build_artifacts/pyopenssl_1608055815057/work
+pytz==2021.1
+pywin32==300
+queuelib==1.5.0
+Scrapy==1.6.0
+service-identity==18.1.0
+six==1.15.0
+sqlparse==0.4.1
+toml==0.10.1
+traitlets @ file:///home/ktietz/src/ci/traitlets_1611929699868/work
+Twisted @ file:///D:/bld/twisted_1610478893117/work
+w3lib @ file:///home/conda/feedstock_root/build_artifacts/w3lib_1591173357158/work
+wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
+wincertstore==0.2
+wrapt==1.12.1
+zope.interface @ file:///D:/bld/zope.interface_1610147025510/work
