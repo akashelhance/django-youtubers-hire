@@ -9,6 +9,7 @@ def home(request):
     featured_youtubers = Youtuber.objects.order_by(
         '-created_date').filter(is_featured=True)
     all_tubers = Youtuber.objects.order_by('-created_date')
+   
     
     data = {
         'sliders': sliders,

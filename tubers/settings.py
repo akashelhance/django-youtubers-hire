@@ -44,6 +44,7 @@ INSTALLED_APPS = [
     'hiretubers',
     # 'accounts',
     'ckeditor',
+    'resize',
  
 ]
 SITE_ID = 1
